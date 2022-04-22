@@ -14,6 +14,29 @@
     "algebra"
   ],
   "structure": {
-
+    "title": "Math 102",
+    "children": [
+      {
+        "title": "Addition",
+        "children": [
+          {
+            "title": "EpicAddition",
+            "children": [{"title": "index.md"}]
+          }
+        ]
+      },
+      {
+        "title": "LaplaceTransforms",
+        "children": [{"title": "index.md"}]
+      },
+      {
+        "title": "Multiplication",
+        "children": [{"title": "index.md"}]
+      },
+      {
+        "title": "Division",
+        "children": [{"title": "index.md"}]
+      }
+    ]
   }
 }
